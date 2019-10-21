@@ -1,0 +1,3 @@
+[submodule "PokemonGO"]
+	path = PokemonGO
+	url = https://github.com/ganleyth/PokemonGO.git
